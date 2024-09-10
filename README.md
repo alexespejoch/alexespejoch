@@ -4,7 +4,7 @@ My name is Alex, I'm from Perú and I'm an SRE.
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/@alexespejoch) (in Spanish) about SRE technologies like Docker and Kubernetes.
-* I offer consulting hours, you can find a slot [here](https://alexespejoch.github.com)
+* I offer consulting hours, you can find a slot [here](https://alexespejoch.github.io)
 
 ## Skills
 
@@ -16,7 +16,7 @@ My name is Alex, I'm from Perú and I'm an SRE.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://alexespejoch.github.com)
+Find all of my socials and resume in my [website](https://alexespejoch.github.io)
 
 <!--
 **alexespejoch/alexespejoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
