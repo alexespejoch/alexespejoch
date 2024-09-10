@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Alex, I'm from Perú and I'm an SRE.
+My name is Alex, I'm from Perú and I'm an Technology Architect.
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/@alexespejoch) (in Spanish) about SRE technologies like Docker and Kubernetes.
