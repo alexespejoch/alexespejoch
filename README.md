@@ -1,6 +1,12 @@
 ## Hello 👋
 
 My name is Alex, I'm from Perú and I'm an Technology Architect.
+<a href="https://twitter.com/alexespejoch">
+  <img align="left" alt="Alex Espejo | Twitter" width="35px" src="svg/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yanpitangui/">
+  <img align="left" alt="Alex Espejo's LinkedIN" width="35px" src="svg/icons/linkedin.svg" />
+</a>
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/@alexespejoch) (in Spanish) about SRE technologies like Docker and Kubernetes.
