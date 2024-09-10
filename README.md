@@ -1,11 +1,15 @@
 ## Hello 👋
 
 My name is Alex, I'm from Perú and I'm an Technology Architect.
+<br/>
 <a href="https://twitter.com/alexespejoch">
   <img align="left" alt="Alex Espejo | Twitter" width="35px" src="svg/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yanpitangui/">
   <img align="left" alt="Alex Espejo's LinkedIN" width="35px" src="svg/icons/linkedin.svg" />
+</a>
+<a href="https://youtube.com/@alexespejoch/">
+  <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/youtube.svg" />
 </a>
 
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
