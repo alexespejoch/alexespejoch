@@ -11,7 +11,8 @@ My name is Alex, I'm from Perú and I'm an Technology Architect.
 <a href="https://youtube.com/@alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/youtube.svg" />
 </a>
-
+<br/>
+<br/>
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
 * I have a [YouTube channel](https://youtube.com/@alexespejoch) (in Spanish) about SRE technologies like Docker and Kubernetes.
 * I offer consulting hours, you can find a slot [here](https://alexespejoch.github.io)
