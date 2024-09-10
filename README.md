@@ -17,6 +17,15 @@ My name is Alex, I'm from Perú and I'm an Technology Architect.
 <a href="https://facebook.com/alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/facebook.svg" />
 </a>
+<a href="https://twitch.com/alexespejoch/">
+  <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/twitch.svg" />
+</a>
+<a href="https://discord.com/alexespejoch/">
+  <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/discord.svg" />
+</a>
+<a href="https://gmail.com/">
+  <img align="left" alt="Alex Espejo" width="35px" src="svg/icons/gmail.svg" />
+</a>
 <br/>
 <br/>
 * Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
