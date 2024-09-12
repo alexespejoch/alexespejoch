@@ -6,7 +6,7 @@ My name is Alex, I'm from Perú and I'm an Technology Architect.
   <img align="left" alt="Alex Espejo | Twitter" width="35px" src="svg/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexespejoch/">
-  <img align="left" alt="Alex Espejo's LinkedIN" width="35px" src="svg/icons/linkedin.svg" />
+  <img align="left" alt="Alex Espejo's Linkedin" width="35px" src="svg/icons/linkedin.svg" />
 </a>
 <a href="https://youtube.com/@alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/youtube.svg" />
@@ -14,17 +14,11 @@ My name is Alex, I'm from Perú and I'm an Technology Architect.
 <a href="https://tiktok.com/@alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/tiktok.svg" />
 </a>
-<a href="https://facebook.com/alexespejoch/">
-  <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/facebook.svg" />
-</a>
 <a href="https://twitch.com/alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/twitch.svg" />
 </a>
 <a href="https://discord.com/alexespejoch/">
   <img align="left" alt="El Blog del Arqui" width="35px" src="svg/icons/discord.svg" />
-</a>
-<a href="https://gmail.com/">
-  <img align="left" alt="Alex Espejo" width="35px" src="svg/icons/gmail.svg" />
 </a>
 <br/>
 <br/>
